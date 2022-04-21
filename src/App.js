@@ -33,7 +33,7 @@ function App() {
                 "textDecoration": "overline"
               }}
             >
-              Prueba técnica Day Store</li>
+              Microplastics</li>
           </ul>
       </nav>
       <div 
